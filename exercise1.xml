@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--listaventas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="exercise1.xsd"-->
+<!DOCTYPE listaventas SYSTEM "exercise1.dtd">
+
+<listaventas>
+    <venta>
+        <importe>ejemploImporte</importe>
+        <comprador>ejemploComprador</comprador>
+        <vendedor>ejemploVendedor</vendedor>
+        <fecha>05/06/2022</fecha>
+        <codigoFactura>673468</codigoFactura>
+    </venta>
+    <venta>
+        <importe>ejemploImporte2</importe>
+        <comprador>ejemploComprador2</comprador>
+        <vendedor>ejemploVendedor2</vendedor>
+        <codigoFactura>745674</codigoFactura>
+    </venta>
+</listaventas>
